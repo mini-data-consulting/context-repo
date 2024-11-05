@@ -1,0 +1,82 @@
+					
+Internal IT Support FAQ - Mini Data Consulting LLP General Questions
+						
+Q1. How do I reset my password?
+ A: If you've forgotten your password or need to update it, go to the internal portal and use the “Password Reset” option. Follow the steps to authenticate and reset your password. For assistance, contact itsupport@minidataconsulting.com.
+						
+Q2. What should I do if my computer won’t start?
+ A: Check if the power cable is securely plugged in, and try pressing the power button for 10 seconds to force a restart. If that doesn’t work, use the diagnostics tool pre-installed on your device to troubleshoot hardware issues. If the issue persists, raise an IT support ticket or email itsupport@minidataconsulting.com.
+						
+Q3. I am having trouble connecting to the company VPN. What can I do?
+ A: First, check your internet connection. Ensure you are using the correct VPN credentials and that your firewall or antivirus software isn’t blocking the VPN connection. For step-by-step troubleshooting, refer to the VPN troubleshooting guide in the internal portal. If you need further help, contact networking@minidataconsulting.com.
+						
+Q4. My email account has been locked. How do I regain access?
+ A: Your account may be locked due to multiple incorrect login attempts. Wait 15 minutes, then try again, or use the password reset function. If you still have issues, contact itsupport@minidataconsulting.com to unlock your account.
+						
+Q5. How can I request new software to be installed?
+ A: If you need new software for work, submit a software request through the IT ticketing system. For additional help or to follow up, email software@minidataconsulting.com. Security and Privacy
+						
+Q6. What is considered a strong password?
+ A: A strong password should have at least 8 characters, including a mix of uppercase and lowercase letters, numbers, and special characters. Avoid using easily guessable information like birthdays or names. For password policies or support, contact security@minidataconsulting.com.
+						
+Q7. How do I enable two-factor authentication (2FA)?
+ A: Two-factor authentication is required for accessing critical systems. To set it up, follow the instructions on the internal portal under the “2FA Setup Guide.” If you have any trouble, contact security@minidataconsulting.com.
+						
+Q8. What should I do if I receive a suspicious email?
+ A: Do not click on any links or open attachments in suspicious emails. Report the email to the IT department immediately by forwarding it to security@minidataconsulting.com. They will advise on further actions.
+				
+Q9. I accidentally deleted an important file. Can it be recovered?
+ A: If the file was stored on the company cloud or server, you can request a file recovery through the internal portal. Submit a support ticket or email datarecovery@minidataconsulting.com to recover files up to 30 days from deletion.
+						
+Network and Connectivity
+						
+Q10. Why is my internet connection slow?
+ A: Slow internet can be caused by multiple factors, such as network congestion or issues with your local Wi-Fi. Restart your router or switch to a wired connection. If the problem persists, check the internal network status page for any ongoing issues. For further assistance, contact networking@minidataconsulting.com.
+						
+Q11. I can't access the shared network drives. What should I do?
+ A: Ensure that you are connected to the company VPN and logged in with the correct credentials. If the issue remains, restart your computer, and try again. You can also follow the troubleshooting steps for network drives on the internal portal. For additional help, email networking@minidataconsulting.com. Hardware and Devices
+						
+Q12. My laptop is overheating. What should I do?
+ A: Overheating could be caused by poor ventilation. Make sure the laptop is placed on a hard surface, and the vents are not blocked. Close any unused applications to reduce load. If overheating continues, contact itsupport@minidataconsulting.com for further diagnostics.
+						
+Q13. How do I report a lost or stolen device?
+ A: Report the loss to the IT department immediately by emailing security@minidataconsulting.com. The IT team will remotely lock the device and wipe any sensitive data. You will be issued a replacement device after verification.
+						
+Q14. How do I connect my mobile device to the company network?
+ A: Ensure that your mobile device meets the company’s security standards, including encryption and using a secure lock screen. You can find the “Mobile Device Setup Guide” on the internal portal to help you connect to the company network via VPN. For additional assistance, contact mobilesupport@minidataconsulting.com.
+						
+IT Support and Tickets
+						
+Q15. How do I submit an IT support ticket?
+ A: You can submit a ticket via the IT ticketing system on the internal portal. Include as much detail as possible about the issue to help speed up the resolution process. For general queries or follow-ups, email itsupport@minidataconsulting.com.
+						
+Q16. What is the response time for IT support?		
+A: IT response times depend on the priority of the issue: Low Priority: Within 48 hours Medium Priority: Within 24 hours High Priority: Immediate response within 4 hours (for critical issues impacting business operations). For escalations, email itsupport@minidataconsulting.com.
+						
+Q17. Can I escalate an IT issue?
+ A: Yes, if your issue hasn’t been resolved within the designated timeframe, you can escalate it through the ticketing system by selecting the “Escalate” option. You can also email itmanager@minidataconsulting.com for further escalation. BYOD (Bring Your Own Device)
+						
+Q18. Can I use my personal device for work?
+ A: Yes, but your device must meet the company’s security standards, including encryption, 2FA, and the installation of company-approved apps. For more information, contact mobilesupport@minidataconsulting.com.
+						
+Q19. My personal device is having issues with the company VPN. What can I do?
+ A: Check your device’s security settings and ensure that it complies with company policies. Follow the VPN troubleshooting guide on the internal portal, or email networking@minidataconsulting.com for assistance.
+						
+Q20: I got a new phone and I’m trying to set up Okta Verify, but I need a QR code. How can I proceed?
+A: If you're setting up Okta Verify on a new device:
+Contact support@minidataconsulting.com to request a reset of your current Okta verification setup.
+ 							
+							 								
+After the reset, log into your account through a web browser, and you’ll be prompted to set up Okta Verify again. Follow the instructions, and you’ll receive a new QR code or setup code to scan in your Okta Verify app.
+ 											 						
+Q21: I need help creating a private channel for a customer in our community Slack. Who do I contact?
+ A: For creating private channels in Slack: Send an email to collaboration@minidataconsulting.com with the following details: Channel name Purpose (e.g., customer collaboration) Members to be added (including external members if necessary) The IT department will assist in creating the channel or modifying existing channels as per your request. If this involves external customers, ensure the necessary permissions and agreements (like NDAs) are in place.
+						
+Q: I have a new hire who needs a laptop, but their department’s available options won’t meet their technical needs. How do I request an exception? 
+A: If your new hire requires a laptop that is outside the standard options for their department: 1. Send an email to hardware@minidataconsulting.com explaining the situation and why the exception is needed (e.g., the employee’s tasks requirea higher-performance laptop typically allocated to engineering). Include the new hire’s role, start date, and department in your request. IT will review the request and seek approval from both the department head (e.g., Marketing Manager) and the relevant technical department (e.g. Engineering). Once approved, IT will allocate the appropriate hardware and notify you of the next steps.
+						
+Q: I need access to a specific tool (e.g., HEX, Tableau, Jira). How do I request this?
+ A: To request access to any tool: Send an email to toolsupport@minidataconsulting.com specifying the tool name, your role, and why you need access. For specific tools, you can directly contact: HEX: Email hexadmin@minidataconsulting.com Tableau: Email tableauadmin@minidataconsulting.com Jira: Email jiraadmin@minidataconsulting.com The assigned owner will review your request and coordinate with IT to grant access if approved. Assigned Tool Owners: HEX Admin: hexadmin@minidataconsulting.com Tableau Admin: tableauadmin@minidataconsulting.com Jira Admin: jiraadmin@minidataconsulting.com Salesforce Admin: salesforceadmin@minidataconsulting.com Power BI Admin: powerbiadmin@minidataconsulting.com Development Team-Specific
+						
+Q20. How do I access the source code repository?
+ A: Access to the company’s Git repository is granted based on your role. Ensure you have the necessary permissions and follow the setup guide available on the internal portal. Contact devops@minidataconsulting.com if access issues persist. Q21. What should I do if I accidentally push code to the wrong branch? A: Immediately notify your team lead and the IT department by emailing devops@minidataconsulting.com. Revert the changes if possible, and IT will assist with any necessary clean-up operations on the repository. For more detailed guides and additional troubleshooting tips, please visit the IT Help Portal. If you don’t find the solution to your issue here, don’t hesitate to submit a support ticket or contact us at itsupport@minidataconsulting.com. Mini Data Consulting LLP IT Department 
